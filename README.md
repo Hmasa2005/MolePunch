@@ -1,5 +1,5 @@
 # MolePunchGame for Python
-![MolePunchGame](202050809_Mogura Punch.png)
+![MolePunchGame](202050809_MoguraPunch.png)
 
 ## Overview  
 **MolePunchGame** is a Python code-based game.
