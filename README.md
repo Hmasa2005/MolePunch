@@ -1,1 +1,1 @@
-# MolePunch-
+# MolePunchGame for Python
